@@ -1,5 +1,5 @@
 #include <iostream>
-#include "s21_graph.h"
+#include "graph/s21_graph.h"
 
 int main() {
     Graph test;

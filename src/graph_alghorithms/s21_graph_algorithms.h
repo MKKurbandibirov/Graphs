@@ -1,0 +1,4 @@
+#ifndef S21_GRAPH_ALGORITHMS
+# define S21_GRAPH_ALGORITHMS
+
+#endif
